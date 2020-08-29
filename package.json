@@ -1,0 +1,24 @@
+{
+  "name": "flujos-db-engine-template",
+  "version": "1.0.0",
+  "description": "A simple boilerplate to get started building a database engine for the Flujos library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenliten/flujos-db-engine-template.git"
+  },
+  "keywords": [
+    "flujos",
+    "boilerplate",
+    "template",
+    "dbengine",
+    "database",
+    "engine"
+  ],
+  "author": "kenliten",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kenliten/flujos-db-engine-template/issues"
+  },
+  "homepage": "https://github.com/kenliten/flujos-db-engine-template#readme"
+}
